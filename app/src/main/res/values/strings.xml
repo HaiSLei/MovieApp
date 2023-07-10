@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="now_playing_title">Now Playing</string>
+    <string name="favorite_add">Add</string>
+    <string name="favorite_remove">Remove</string>
+    <string name="movie_poster_base_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="refresh">refresh_button_text</string>
+</resources>
